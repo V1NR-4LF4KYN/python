@@ -1,0 +1,16 @@
+#!/usr/bin/python3
+''' Function For Cleaning Files of Unnecessary Spaces at the End of Lines '''
+
+def cleanCode(file):
+with open(file, "r") as f: # open file to clean up
+with open(f'{file}.bak', "w") as t:
+for line in f:
+t.write(" ".join(line.split())+"\n")
+
+
+
+
+def main():
+cleanCode("clean.py")
+
+main()
