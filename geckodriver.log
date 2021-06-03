@@ -1,0 +1,895 @@
+1621619712624	geckodriver	INFO	Listening on 127.0.0.1:39063
+1621619712814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexwpoZ4"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621619727879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1621619874521	geckodriver	INFO	Listening on 127.0.0.1:37097
+1621619874715	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefZZ6Ty"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621619879376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621619894671	Marionette	INFO	Listening on port 44775
+1621619895033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621619960347	Marionette	INFO	Stopped listening on port 44775
+1621619978618	geckodriver	INFO	Listening on 127.0.0.1:36983
+1621619978774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexEu8y9"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621619981916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621619995785	Marionette	INFO	Listening on port 38351
+1621619996740	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1621620147013	Marionette	INFO	Stopped listening on port 38351
+1621620164507	geckodriver	INFO	Listening on 127.0.0.1:46607
+1621620165594	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBHOCes"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621620172202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621620185998	Marionette	INFO	Listening on port 35559
+1621620186603	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621620349916	Marionette	INFO	Stopped listening on port 35559
+1621620369589	geckodriver	INFO	Listening on 127.0.0.1:60085
+1621620369783	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuCufel"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621620373868	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621620387958	Marionette	INFO	Listening on port 34417
+1621620388700	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621620406498	Marionette	INFO	Stopped listening on port 34417
+1621620473273	geckodriver	INFO	Listening on 127.0.0.1:41259
+1621620473457	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileZDVg8F"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621620478585	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621620492656	Marionette	INFO	Listening on port 41387
+1621620493054	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.simple-mmo.com"
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://web.simple-mmo.com"
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=7fd7b70f9000","state":{"remoteTypePrefix":"web"},"filename":"/build/firefox/src/firefox-88.0.1/dom/ipc/ContentParent.cpp","lineNumber":3540,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162"]}] Barrier: profile-before-change
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1621621954389	Marionette	INFO	Stopped listening on port 41387
+1621621969444	geckodriver	INFO	Listening on 127.0.0.1:38273
+1621621970520	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesc527Y"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621621978850	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621621997278	Marionette	INFO	Listening on port 43611
+1621621997681	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621622077238	Marionette	INFO	Stopped listening on port 43611
+1621622094169	geckodriver	INFO	Listening on 127.0.0.1:51875
+1621622094368	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledlATMD"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621622099844	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621622114128	Marionette	INFO	Listening on port 38891
+1621622114939	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1621622324300	Marionette	INFO	Stopped listening on port 38891
+1621622342574	geckodriver	INFO	Listening on 127.0.0.1:56201
+1621622343662	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUO5R9t"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621622352568	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621622371659	Marionette	INFO	Listening on port 38145
+1621622372250	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621622451440	Marionette	INFO	Stopped listening on port 38145
+1621622457942	geckodriver	INFO	Listening on 127.0.0.1:55379
+1621622458166	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaxUoSq"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621622464531	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621622482594	Marionette	INFO	Listening on port 40327
+1621622483165	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621622514490	Marionette	INFO	Stopped listening on port 40327
+1621622558396	geckodriver	INFO	Listening on 127.0.0.1:47293
+1621622558610	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSMtY8A"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621622563808	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621622578905	Marionette	INFO	Listening on port 39239
+1621622579888	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621622616120	Marionette	INFO	Stopped listening on port 39239
+1621622636845	geckodriver	INFO	Listening on 127.0.0.1:45035
+1621622637072	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA6Uqri"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621622641575	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621622657188	Marionette	INFO	Listening on port 33745
+1621622658255	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1621622807774	Marionette	INFO	Stopped listening on port 33745
+1621622839625	geckodriver	INFO	Listening on 127.0.0.1:42655
+1621622840713	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4W6LBG"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621622848324	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621622868567	Marionette	INFO	Listening on port 45189
+1621622870335	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621622919810	Marionette	INFO	Stopped listening on port 45189
+1621622943050	geckodriver	INFO	Listening on 127.0.0.1:40807
+1621622943279	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilesWHQdQ"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621622949682	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621622970001	Marionette	INFO	Listening on port 41023
+1621622970731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621622981634	Marionette	INFO	Stopped listening on port 41023
+1621623055732	geckodriver	INFO	Listening on 127.0.0.1:54777
+1621623055972	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegxCGmV"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621623060660	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621623076227	Marionette	INFO	Listening on port 45447
+1621623077033	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621623104195	Marionette	INFO	Stopped listening on port 45447
+1621623136016	geckodriver	INFO	Listening on 127.0.0.1:43921
+1621623136436	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilee12Bqg"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621623141564	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621623155732	Marionette	INFO	Listening on port 34113
+1621623156881	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621623383557	Marionette	INFO	Stopped listening on port 34113
+1621623402151	geckodriver	INFO	Listening on 127.0.0.1:38977
+1621623402325	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef2eKz0"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621623411728	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621623431591	Marionette	INFO	Listening on port 43201
+1621623432105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621623453681	Marionette	INFO	Stopped listening on port 43201
+1621623578265	geckodriver	INFO	Listening on 127.0.0.1:53707
+1621623578499	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezEzcIx"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621623585231	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621623601117	Marionette	INFO	Listening on port 34023
+1621623602065	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621623620444	Marionette	INFO	Stopped listening on port 34023
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621623753748	geckodriver	INFO	Listening on 127.0.0.1:51623
+1621623753966	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex1Mnwx"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621623759222	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621623774000	Marionette	INFO	Listening on port 38483
+1621623774422	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621624631739	geckodriver	INFO	Listening on 127.0.0.1:49637
+1621624632905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTBlVf4"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621624652245	Marionette	INFO	Marionette enabled
+Exiting due to channel error.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1621624745635	geckodriver	INFO	Listening on 127.0.0.1:36103
+1621624745862	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKu4Bqp"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621624752590	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621624774409	Marionette	INFO	Listening on port 46471
+1621624775189	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+console.error: "Exception when calling onAvailable handler" "Connection closed, pending request to server0.conn1.child4/consoleActor2, type setPreferences failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nsetSaveRequestAndResponseBodies@resource://devtools/client/webconsole/webconsole-ui.js:323:33\nconnect/connection<@resource://devtools/client/webconsole/webconsole-connection-proxy.js:68:31\n" (new Error("Connection closed, pending request to server0.conn1.child4/consoleActor2, type setPreferences failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:285:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\nsetSaveRequestAndResponseBodies@resource://devtools/client/webconsole/webconsole-ui.js:323:33\nconnect/connection<@resource://devtools/client/webconsole/webconsole-connection-proxy.js:68:31\n", "resource://devtools/shared/protocol/Front.js", 99))
+WebConsolePanel open failed. undefined: Can not send request 'watchResources' because front 'watcher' is already destroyed.
+console.error: "WebConsolePanel open failed. undefined: Can not send request 'watchResources' because front 'watcher' is already destroyed." (new Error("Can not send request 'watchResources' because front 'watcher' is already destroyed.", "resource://devtools/shared/protocol/Front/FrontClassWithSpec.js", 28))
+JavaScript error: resource://devtools/shared/protocol/Front.js, line 99: Error: Connection closed, pending request to server0.conn1.child4/consoleActor2, type setPreferences failed
+
+Request stack:
+request@resource://devtools/shared/protocol/Front.js:285:14
+generateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19
+setSaveRequestAndResponseBodies@resource://devtools/client/webconsole/webconsole-ui.js:323:33
+connect/connection<@resource://devtools/client/webconsole/webconsole-connection-proxy.js:68:31
+
+JavaScript error: resource://devtools/client/framework/toolbox.js, line 2861: TypeError: this.win is null
+console.error: (new Error("Connection closed before committing the transaction.", "resource://gre/modules/Sqlite.jsm", 687))
+1621625318612	Marionette	INFO	Stopped listening on port 46471
+1621625338251	geckodriver	INFO	Listening on 127.0.0.1:45237
+1621625339327	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiwjRfx"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621625348217	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621625370893	Marionette	INFO	Listening on port 44989
+1621625371535	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: services.settings: security-state/intermediates sync interrupted by shutdown
+console.warn: services.settings: security-state/cert-revocations sync interrupted by shutdown
+1621625642876	Marionette	INFO	Stopped listening on port 44989
+1621625672319	geckodriver	INFO	Listening on 127.0.0.1:43847
+1621625672467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilev4RKiy"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621625679379	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621625698343	Marionette	INFO	Listening on port 45363
+1621625698812	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621625834386	Marionette	INFO	Stopped listening on port 45363
+1621625883629	geckodriver	INFO	Listening on 127.0.0.1:45993
+1621625883954	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileidvbyS"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621625893806	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621625911834	Marionette	INFO	Listening on port 33927
+1621625912209	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621626009760	Marionette	INFO	Stopped listening on port 33927
+1621626030827	geckodriver	INFO	Listening on 127.0.0.1:37489
+1621626031125	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9DtKoO"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621626037852	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621626054009	Marionette	INFO	Listening on port 37315
+1621626054392	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621626243733	Marionette	INFO	Stopped listening on port 37315
+1621626281889	geckodriver	INFO	Listening on 127.0.0.1:52649
+1621626282099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaCreE4"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621626288267	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621626310034	Marionette	INFO	Listening on port 33387
+1621626310854	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621626332770	Marionette	INFO	Stopped listening on port 33387
+1621626405869	geckodriver	INFO	Listening on 127.0.0.1:58441
+1621626406067	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekcltDg"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621626412065	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621626429806	Marionette	INFO	Listening on port 37597
+1621626431082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+console.error: (new Error("Error(s) encountered during statement execution: database or disk is full", "resource://gre/modules/Sqlite.jsm", 893))
+JavaScript error: , line 0: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+1621626645389	Marionette	INFO	Stopped listening on port 37597
+1621626661180	geckodriver	INFO	Listening on 127.0.0.1:47283
+1621626693060	geckodriver	INFO	Listening on 127.0.0.1:39551
+1621626745949	geckodriver	INFO	Listening on 127.0.0.1:43631
+1621627325065	geckodriver	INFO	Listening on 127.0.0.1:55143
+1621627325099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileQgT6ka"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621627334207	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621627353926	Marionette	INFO	Listening on port 40147
+1621627354721	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621627382971	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621627383878	Marionette	INFO	Stopped listening on port 40147
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x6D0029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x230032,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+1621627453434	geckodriver	INFO	Listening on 127.0.0.1:44537
+1621627453575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileca1dCW"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621627459362	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621627473066	Marionette	INFO	Listening on port 41175
+1621627473813	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621627497707	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621627595212	Marionette	INFO	Stopped listening on port 41175
+1621627623372	geckodriver	INFO	Listening on 127.0.0.1:58951
+1621627624492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLoGnYz"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621627633558	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621627649337	Marionette	INFO	Listening on port 34291
+1621627649945	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621627769359	Marionette	INFO	Stopped listening on port 34291
+1621627790431	geckodriver	INFO	Listening on 127.0.0.1:35275
+1621627790599	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileeyZyjv"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621627798537	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621627814565	Marionette	INFO	Listening on port 40061
+1621627815471	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621627910550	Marionette	INFO	Stopped listening on port 40061
+1621627933344	geckodriver	INFO	Listening on 127.0.0.1:48597
+1621627933580	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileulkbrI"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621627941789	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621627959550	Marionette	INFO	Listening on port 42851
+1621627960308	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621628047734	Marionette	INFO	Stopped listening on port 42851
+1621628086365	geckodriver	INFO	Listening on 127.0.0.1:35939
+1621628087463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledyq6KX"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621628094334	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621628109927	Marionette	INFO	Listening on port 44051
+1621628110192	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621628224826	Marionette	INFO	Stopped listening on port 44051
+1621628243471	geckodriver	INFO	Listening on 127.0.0.1:50223
+1621628243633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRCPBAQ"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621628251158	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: services.settings: main/fxmonitor-breaches sync interrupted by shutdown
+console.warn: SearchService: "_init: abandoning init due to shutting down"
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+JavaScript error: , line 0: uncaught exception: 2147500036
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: region-update-timer
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: uncaught exception: Object
+1621628277559	geckodriver	INFO	Listening on 127.0.0.1:51281
+1621628277616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledrzJkg"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621628280016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621628293449	Marionette	INFO	Listening on port 40545
+1621628293980	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1621628391969	Marionette	INFO	Stopped listening on port 40545
+1621628422040	geckodriver	INFO	Listening on 127.0.0.1:53055
+1621628423105	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC0vNYt"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621628431869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621628448270	Marionette	INFO	Listening on port 43529
+1621628448737	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621628476571	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+console.error: "Could not write session state file " (new Error("", "(unknown module)")) ""
+JavaScript error: , line 0: uncaught exception: null
+1621629089485	geckodriver	INFO	Listening on 127.0.0.1:37863
+1621629089774	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHLdpHO"
+1621629119038	geckodriver	INFO	Listening on 127.0.0.1:50029
+1621629119206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley1uxgW"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621629131491	Marionette	INFO	Marionette enabled
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: AbortError: A request was aborted, for example through a call to IDBTransaction.abort.
+JavaScript error: , line 0: uncaught exception: null
+JavaScript error: , line 0: uncaught exception: null
+console.error: (new Error("Error(s) encountered during statement execution: attempt to write a readonly database", "resource://gre/modules/Sqlite.jsm", 893))
+1621629150219	Marionette	INFO	Stopped listening on port 43529
+1621629163116	geckodriver	INFO	Listening on 127.0.0.1:57961
+1621629163262	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ9KZkT"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621629166338	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621629181705	Marionette	INFO	Listening on port 35393
+1621629182616	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5C000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1621629367489	Marionette	INFO	Stopped listening on port 35393
+1621629385825	geckodriver	INFO	Listening on 127.0.0.1:51265
+1621629385974	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqivcCk"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621629394183	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621629410980	Marionette	INFO	Listening on port 37029
+1621629411426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621629436791	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1621629446235	Marionette	INFO	Stopped listening on port 37029
+1621629693204	geckodriver	INFO	Listening on 127.0.0.1:57999
+1621629693302	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGd0QrM"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621629699791	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621629715840	Marionette	INFO	Listening on port 44407
+1621629716227	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621629796260	Marionette	INFO	Stopped listening on port 44407
+1621629828228	geckodriver	INFO	Listening on 127.0.0.1:45803
+1621629828350	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGXjwAr"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621629835908	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621629855488	Marionette	INFO	Listening on port 45059
+1621629856103	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621629995465	geckodriver	INFO	Listening on 127.0.0.1:51841
+1621629996042	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile0KrWbh"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621630011854	Marionette	INFO	Marionette enabled
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+Exiting due to channel error.
+Exiting due to channel error.
+console.warn: "Inspector destroyed while executing onReflow callback"
+1621630215745	Marionette	INFO	Stopped listening on port 45059
+1621630243746	geckodriver	INFO	Listening on 127.0.0.1:40349
+1621630244845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileL09Lam"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621630252752	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621630267382	Marionette	INFO	Listening on port 33563
+1621630268025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621630325706	Marionette	INFO	Stopped listening on port 33563
+1621630344556	geckodriver	INFO	Listening on 127.0.0.1:58965
+1621630344815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBi47vb"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621630352064	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621630368462	Marionette	INFO	Listening on port 46183
+1621630369176	Marionette	WARN	TLS certificate errors will be ignored for this session
+1621630467324	geckodriver	INFO	Listening on 127.0.0.1:54031
+1621630468413	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8Gt5uY"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621630503531	Marionette	INFO	Marionette enabled
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0xFFF7,name=<unknown IPC msg name>) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0xAB0001,name=PVsync::Msg_Notify) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1621630575874	Marionette	INFO	Stopped listening on port 46183
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+1621630601679	geckodriver	INFO	Listening on 127.0.0.1:43587
+1621630601906	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile00HNgK"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621630606966	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 770))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1621630626275	Marionette	INFO	Listening on port 37221
+1621630627277	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+1621630778118	Marionette	INFO	Stopped listening on port 37221
+1621630837496	geckodriver	INFO	Listening on 127.0.0.1:34929
+1621630837589	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileTdLM47"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621630844360	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621630862100	Marionette	INFO	Listening on port 46517
+1621630862560	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5C0001,name=PHttpBackgroundChannel::Msg_OnStartRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5C0002,name=PHttpBackgroundChannel::Msg_OnTransportAndData) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5C0003,name=PHttpBackgroundChannel::Msg_OnStopRequest) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5C000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1621630952117	Marionette	INFO	Stopped listening on port 46517
+1621630980101	geckodriver	INFO	Listening on 127.0.0.1:57087
+1621630981178	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileIWAyfF"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621630989339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621631010038	Marionette	INFO	Listening on port 34363
+1621631010955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://web.simple-mmo.com/js/progressbar.js, line 1: Error: Container does not exist: #qpGraph
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5C000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1621631113517	Marionette	INFO	Stopped listening on port 34363
+1621631144827	geckodriver	INFO	Listening on 127.0.0.1:45695
+1621631145931	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile96RTuQ"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1621631156249	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621631182258	Marionette	INFO	Listening on port 40463
+1621631183228	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5C000D,name=PHttpBackgroundChannel::Msg___delete__) Channel error: cannot send/recv
+
+1621631348036	Marionette	INFO	Stopped listening on port 40463
+1622646310442	geckodriver	INFO	Listening on 127.0.0.1:36407
+1622646311506	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilevMxvFc"
+[GFX1-]: More than 1 GPU from same vendor detected via PCI, cannot deduce device
+1622646324262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevMxvFc/search.json.mozlz4", (void 0)))
+1622646340511	Marionette	INFO	Listening on port 45841
+1622646340842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622646418640	Marionette	INFO	Stopped listening on port 45841
