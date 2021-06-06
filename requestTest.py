@@ -3,9 +3,9 @@ Testing The Request Module and it's Possibilities.
 
 '''
 
-
 # Imports
 import requests
+import threading
 
 # Function
 def main(): 
@@ -15,5 +15,7 @@ def main():
     else:
         print('Error');
 
-# Calling Main Function
-main();
+# Calling Main Function + making a thread out of it.
+t = threading.Thread(target=main)
+t.start()
+t.join()

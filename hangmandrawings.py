@@ -28,12 +28,13 @@ def thirdStage():
 		print("-", end="")
 	secondStage()
 
-def fourthStage():
-	for i in range()
+#def fourthStage():
+#	for i in range():
+#		pass
 
 
 
 def main():
-	fourthStage()
+	pass
 
 main()

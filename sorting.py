@@ -1,5 +1,6 @@
 # imports 
 import random
+import timeit
 
 # vars
 list = []
@@ -68,12 +69,15 @@ def selectionSort(list):
 
 # main-func
 def main():
+
 	global list
 	fillList(list, 100)
 	#reverseList(list)
 	shuffle(list)
-	# bubbleSort(list)
+	#bubbleSort(list)
 	selectionSort(list)
 
 # calling main-func
 main()
+time = timeit.timeit(main, number=1)
+print(f'Time taken: {time*1e2} milliseconds') 

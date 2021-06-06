@@ -28,7 +28,7 @@ class Hat:
     
     # funcs
     def pickBalls(self):
-   	 self.ballCount = random.randint(1, self.n + 1)
+        self.ballCount = random.randint(1, self.n + 1)
         print(f'Number of picked balls is {self.ballCount}. ')
         
     def main(self):

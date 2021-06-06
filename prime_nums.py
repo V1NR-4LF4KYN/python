@@ -33,7 +33,7 @@ class Prime:
 
 	def getAllPrimeNumbers(self):
 		for num in self.numbersToLimit:
-			if ((num != 1) and (not num % 2 == 0)): 	# see instructions at the top
+			if((num != 1) and (not num % 2 == 0)): 	# see instructions at the top
 				self.prime_numbers.append(num)
 
 		return self.prime_numbers

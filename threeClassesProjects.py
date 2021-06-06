@@ -187,7 +187,7 @@ def thirdProject():
 
 # main-func
 def main():
-    thirdProject()
+    secondProject()
     
 # calling main
 main()
