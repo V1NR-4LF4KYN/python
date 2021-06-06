@@ -1,7 +1,6 @@
 pi = 0
 
-n: int = 20_000_000
-n = round(20e6)
+n: int = round(2e6)
 x:int = 1
 for i in range(n):
 	if i%2 == 0:
@@ -17,3 +16,4 @@ print(math.pi)
 
 # takes about 40 seconds and is accurate for 7 digits with n = 20E6
 
+                                                           
