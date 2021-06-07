@@ -17,8 +17,9 @@ from pynput.keyboard import Key, Listener
 
 class Stopwatch:
 	def __init__(self):
+		self.time = 0
 		self.START_TIME = time.time()			# Time at start of program
-		self.running: bool = True				# Bool to control pause of watch
+		self.running: bool = False				# Bool to control pause of watch
 
 		self.listener = Listener(self.on_press) # listener for keyboard input
 		self.listener.start()					# starts listener
@@ -32,13 +33,21 @@ class Stopwatch:
 				self.running = True
 
 	def stopTime(self):							# if not paused print time
-		while True:								# ctrl+c 'able due to try-except-block because of endless loop
+		#while True:								# ctrl+c 'able due to try-except-block because of endless loop
+		#	try:
+		#		if self.running:			
+		#			print(f'{time.time() - self.START_TIME:.3f}') # rounding it to 3 decimal points
+		#			time.sleep(0.001)
+		#	except:	
+		#		print('Something went wrong. Exiting...')
+		#		break
+		while True:
 			try:
-				if self.running:			
-					print(f'{time.time() - self.START_TIME:.3f}') # rounding it to 3 decimal points
-					time.sleep(0.001)
-			except:	
-				print('Something went wrong. Exiting...')
+				if self.running:
+					print(f'{self.time:.3f} s')
+					self.time += 0.01
+					time.sleep(0.01)
+			except:
 				break
 
 
