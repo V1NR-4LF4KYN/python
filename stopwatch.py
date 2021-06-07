@@ -7,8 +7,7 @@
 # Author: p4zzz
 # 06.06.2021
 
-# TODO: fix key detection issue, which prevents quitting program by pressing q
-# TODO 2: add lap functionality
+# TODO: fix key detection issue, which prevents quitting program by pressing 'q'
 
 
 import time
@@ -23,6 +22,8 @@ class Stopwatch:
 		self.unpaused: bool = False				# Bool to control pause of watch
 		self.flipped: bool = False				# switches to True when unpaused
 		self.running: bool = True				# Bool to control wether program is running
+		
+		self.lap_times: list = []				# List for lap times
 
 		self.listener = Listener(self.on_press) # listener for keyboard input
 		self.listener.start()					# starts listener
@@ -35,36 +36,39 @@ class Stopwatch:
 
 
 	def on_press(self, key):					# func controls pause/resume of watch
-		print(key)
+		print(f'Key: {key} pressed.')
 		if key==Key.space:						# key is space-bar-key
 			if self.unpaused:
 				self.unpaused = False
 			else:
 				self.unpaused = True
-		elif key=='q':							# if q is pressed quit the program
+		if key=='q':							# if q is pressed quit the program
 			self.running = False
-
-	def stopTime(self):						
-		while self.running:								# if not paused print time
-			try:										# ctrl+c 'able due to try-except-block because of endless loop
-				if self.unpaused:						
-					if not self.flipped:				# first set start time one more time. Then stop. Only does it when flipped is False
-						self.START_TIME = time.time()	
-						self.flipped = True	
-					self.current_time = (time.time() - self.START_TIME) # current time is time right then minus the start time
-					print(f'{self.current_time + self.time:.3f}') # printing current time + all other times we measured beefore AND rounding it to 3 decimal points
-					time.sleep(0.001) # after each step sleep 0.001 secs
-				else: 
-					if self.flipped:
-						print('Press \'space\' to resume...')
-					self.flipped = False					# reset flip when paused
-					self.time += self.current_time			# add current time to total time
-					self.current_time = 0 					# current time = 0, so loop doesnt add more
-
-			except:	
-				print('Something went wrong. Exiting...')
-				break
+		if key=='l': 
+			print(f'time added')
+			self.lap_times.append(self.current_time)	# append current time to lap-list
 
 
-t = Stopwatch()
+	def stopTime(self):
+		global time
+		while self.running:							# if not paused print time	
+			if self.unpaused:						
+				if not self.flipped:				# first set start time one more time. Then stop. Only does it when flipped is False
+					self.START_TIME = time.time()	
+					self.flipped = True				# flipped controls wether to print control to screen for user after pausing
+				self.current_time = (time.time() - self.START_TIME) # current time is time right then minus the start time
+				print(f'{self.current_time + self.time:.3f}') # printing current time + all other times we measured beefore AND rounding it to 3 decimal points
+				time.sleep(0.001) 
+			else: 
+				if self.flipped:
+					print('Press \'space\' to resume...')
+					for time in self.lap_times:
+						print(f'Lap: {time}\n')
+				self.flipped = False					# reset flip when paused
+				self.time += self.current_time			# add current time to total time
+				self.current_time = 0 					# current time = 0, so loop doesnt add more
+
+
+
+t = Stopwatch() 
 t.stopTime()
