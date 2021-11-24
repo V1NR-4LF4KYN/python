@@ -10,8 +10,8 @@
 # TODO: fix key detection issue, which prevents quitting program by pressing 'q'
 
 
-import time
-from pynput.keyboard import Key, Listener 
+from time import
+from pynput.keyboard import Key, Listener , KeyCode
 
 
 class Stopwatch:
@@ -24,6 +24,7 @@ class Stopwatch:
 		self.running: bool = True				# Bool to control wether program is running
 		
 		self.lap_times: list = []				# List for lap times
+		self.time_counter: int = 0
 
 		self.listener = Listener(self.on_press) # listener for keyboard input
 		self.listener.start()					# starts listener
@@ -36,21 +37,26 @@ class Stopwatch:
 
 
 	def on_press(self, key):					# func controls pause/resume of watch
-		print(f'Key: {key} pressed.')
+		# print(f'Key: {key} pressed.')
 		if key==Key.space:						# key is space-bar-key
-			if self.unpaused:
+			if self.unpaused:					# pause or unpause basically 
 				self.unpaused = False
 			else:
-				self.unpaused = True
-		if key=='q':							# if q is pressed quit the program
+				self.unpaused = True			
+				for lap in self.lap_times:						# after pausing display all lap times
+					print(f'Lap {self.time_counter}: {lap}') 	# lap is the time
+
+		if key==KeyCode(char='q'):								# if q is pressed quit the program
 			self.running = False
-		if key=='l': 
-			print(f'time added')
+
+		if key==KeyCode(char='l'):
+			print(f'Time Added')
+			self.time_counter += 1
 			self.lap_times.append(self.current_time)	# append current time to lap-list
 
 
+
 	def stopTime(self):
-		global time
 		while self.running:							# if not paused print time	
 			if self.unpaused:						
 				if not self.flipped:				# first set start time one more time. Then stop. Only does it when flipped is False
