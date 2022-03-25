@@ -71,7 +71,7 @@ def main():
     time.sleep(0.5)
 
     # problem to run
-    three()
+    three(5)
     
 
 # calling main func

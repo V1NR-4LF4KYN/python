@@ -20,7 +20,7 @@ class Clock:
         self.startingTime = time.time();
     
     # Functions
-    def wait(self, seconds): # Programm Waits
+    def wait(self, seconds): # Program Waits
         time.sleep(seconds);
     
     def measureTime(self): # Measures Time between call The Function and Creation of Clock Object

@@ -11,6 +11,8 @@ data = data[["G1", "G2", "G3", "studytime", "failures", "absences"]]
 
 predict = "G1"#, "G2", "G3"
 
+
+
 x = np.array(data.drop([predict], 1))
 y = np.array(data[predict])
 
